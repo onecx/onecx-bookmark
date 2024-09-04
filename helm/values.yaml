@@ -1,0 +1,12 @@
+deployment:
+  svc: true 
+  bff: true 
+
+product:
+  info:
+    data:
+      description: "OneCX Bookmark Management"
+      imageUrl: ""
+      iconName: "question-circle"
+      displayName: "OneCX Bookmark"
+      basePath: "/bookmark"  

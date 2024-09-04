@@ -1,0 +1,19 @@
+apiversion: v2
+name: onecx-bookmark
+version: 0.0.0
+appversion: 0.0.0
+dependencies:
+- name: helm-product
+  version: ^0
+  repository: oci://ghcr.io/onecx/charts
+  alias: product
+- name: onecx-bookmark-svc
+  version: "*-0"
+  repository: oci://ghcr.io/onecx/charts
+  condition: "deployment.svc"  
+  alias: "svc"
+- name: onecx-bookmark-bff
+  version: "*-0"
+  repository: oci://ghcr.io/onecx/charts
+  condition: "deployment.bff"  
+  alias: "bff"  
