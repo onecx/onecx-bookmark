@@ -6,8 +6,8 @@ deployment:
 product:
   info:
     data:
-      description: "OneCX Bookmark Management"
+      description: "OneCX Bookmark"
       imageUrl: ""
-      iconName: "question-circle"
+      iconName: "bookmark"
       displayName: "OneCX Bookmark"
-      basePath: "/bookmark"  
+      basePath: "/bookmark"
