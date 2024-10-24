@@ -4,12 +4,12 @@ dependencies:
   version: 0.2.0
 - name: onecx-bookmark-svc
   repository: oci://ghcr.io/onecx/charts
-  version: 0.0.0-rc.19
+  version: 0.0.0-rc.20
 - name: onecx-bookmark-bff
   repository: oci://ghcr.io/onecx/charts
   version: 0.0.0-rc.15
 - name: onecx-bookmark-ui
   repository: oci://ghcr.io/onecx/charts
   version: 0.0.0-rc.31
-digest: sha256:de5b29c17a1d81403e51cf40d629fc9234c6f97690dc50b9adff260b3784a462
-generated: "2024-10-23T08:24:29.697285762Z"
+digest: sha256:323a613e5b7a2b111278184f8d895dc18ba27492357ec3c19ba6987ab677873b
+generated: "2024-10-24T14:31:50.003092018Z"
