@@ -1,15 +1,15 @@
 dependencies:
 - name: helm-product
   repository: oci://ghcr.io/onecx/charts
-  version: 0.2.0
+  version: 0.3.0
 - name: onecx-bookmark-svc
   repository: oci://ghcr.io/onecx/charts
-  version: 0.0.0-rc.52
+  version: 0.0.0-rc.53
 - name: onecx-bookmark-bff
   repository: oci://ghcr.io/onecx/charts
-  version: 0.0.0-rc.47
+  version: 0.0.0-rc.48
 - name: onecx-bookmark-ui
   repository: oci://ghcr.io/onecx/charts
   version: 0.0.0-rc.63
-digest: sha256:bd7ef562dd20d65570224dffe14f1535ccaea6d5145ed515210d81aa454b3e0e
-generated: "2025-03-17T09:35:30.482597475Z"
+digest: sha256:66b4f7d39070cbf83c5219a866afddb67ffaba60cb98c083ddd9fa3956e4eee1
+generated: "2025-04-07T08:08:10.683165233Z"
