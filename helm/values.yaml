@@ -6,8 +6,10 @@ deployment:
 product:
   info:
     data:
-      description: "OneCX Bookmark"
+      description: "Manage User and Workspace Bookmarks"
       imageUrl: ""
       iconName: "bookmark"
       displayName: "OneCX Bookmark"
-      basePath: "/bookmark"
+      basePath: /bookmark
+      provider: "OneCX Team"
+      classifications: [ "Tool" ]
