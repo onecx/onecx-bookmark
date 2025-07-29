@@ -7,9 +7,9 @@ dependencies:
   version: 0.0.0-rc.70
 - name: onecx-bookmark-bff
   repository: oci://ghcr.io/onecx/charts
-  version: 0.0.0-rc.58
+  version: 0.0.0-rc.59
 - name: onecx-bookmark-ui
   repository: oci://ghcr.io/onecx/charts
   version: 0.0.0-rc.89
-digest: sha256:efddefdae9441fd33dc7083c47c652051a6022f22beaffa51faaa55265515313
-generated: "2025-07-29T07:11:15.450085916Z"
+digest: sha256:cbf66098d1518b1c7742cea9384cd276ca5c5d1e23136d521adc251e0a29ce24
+generated: "2025-07-29T12:14:29.025308714Z"
