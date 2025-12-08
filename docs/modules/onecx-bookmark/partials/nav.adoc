@@ -1,0 +1,7 @@
+* xref:documentation:onecx-bookmark:index.adoc[Bookmark]
++
+include::documentation:onecx-bookmark-ui:partial$nav.adoc[]
++
+include::documentation:onecx-bookmark-bff:partial$nav.adoc[]
++
+include::documentation:onecx-bookmark-svc:partial$nav.adoc[]
