@@ -10,6 +10,6 @@ dependencies:
   version: 0.0.0-rc.92
 - name: onecx-bookmark-ui
   repository: oci://ghcr.io/onecx/charts
-  version: 0.0.0-rc.112
-digest: sha256:32f6aaea23dc9e67550536fa024ccd409db6b5bc8827abe3b2525735353f842e
-generated: "2026-02-09T06:10:55.441801116Z"
+  version: 0.0.0-rc.113
+digest: sha256:47d7e8684aaffd4c0bef98eccc031c8260286c1115012a777d967ae69019efde
+generated: "2026-02-11T16:56:18.686770749Z"
